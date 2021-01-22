@@ -3,6 +3,13 @@
 
 # 目录
 ### 2021-1
+- [ES6中的let和const](https://mp.weixin.qq.com/s/FQEsm2AoJR5w6eA2n-5B7A)
+- [ES8对象方法扩展](https://mp.weixin.qq.com/s/wiz2yAu1E9rufdBZlTjZ0A)
+- [ES8字符串方法扩展](https://mp.weixin.qq.com/s/QQ6QfgZ1uXjgEnRgW8VpoQ)
+- [一篇理解cookie、session、localStorage和sessionStorage](https://mp.weixin.qq.com/s/l88ej9GJMIxWmChlm96Mmw)
+- [一道前端面试题：面向对象相关](https://mp.weixin.qq.com/s/1oXsdJ6KxWaMbLctI7tYLg)
+- [面试中高频被问的CSS布局（双飞翼布局）](https://mp.weixin.qq.com/s/kaBnTUKAh-UTdJheB0haSw)
+- [面试中高频被问的CSS布局（圣杯布局）](https://mp.weixin.qq.com/s/tlFOfcq-s7VmB3FI5YeVDA)
 - [npm镜像源管理](https://mp.weixin.qq.com/s/6R6oBrgCAeTu52yrbYFmUw)
 - [【建议收藏】一道80%面试都会问的CSS试题](https://mp.weixin.qq.com/s/WYGlw6EOiIXrVzpVsOZscg)
 - [JavaScript的JSON对象](https://mp.weixin.qq.com/s/vWIRNawgh9JCGGo3Vi_pug)
