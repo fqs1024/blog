@@ -2,7 +2,18 @@
 公众号 【前端工作日】
 
 # 目录
+### 2021-2
+- [扩展运算符在对象和数组上的运用](https://mp.weixin.qq.com/s/yXcjM4yEYVNSxNexWWJOVA)
+- [常用的前端开发在线工具](https://mp.weixin.qq.com/s/gt-MJmZJXzqyslUOHQLHMA)
 ### 2021-1
+- [ES6中Reflect对象](https://mp.weixin.qq.com/s/mVW-VKja4wWwjfxuvaDWqQ)
+- [JS中一个关于call()方法的常见面试点](https://mp.weixin.qq.com/s/xMq372YmYPY8udHFf_HO9A)
+- [try..catch错误处理的四种形式](https://mp.weixin.qq.com/s/XWCOO8fd-L2fY4zU-wa4vg)
+- [ES6中Proxy对象](https://mp.weixin.qq.com/s/L9EK3xjHbmC3HIr_a3XGmg)
+- [ES2020新特性 - 可选链操作符](https://mp.weixin.qq.com/s/EpNb77q5JOiy9M5PDQNLpw)
+- [ES6中的尾后逗号](https://mp.weixin.qq.com/s/RBkgf7d70d9nIWKu8jdQ_g)
+- [ES2020 空值合并运算符](https://mp.weixin.qq.com/s/rrSkMkwOnZJW6IKQp7AhcA)
+- [ES6函数相关扩展](https://mp.weixin.qq.com/s/PrirEr653fM6oU5BLq3PUg)
 - [ES6中的let和const](https://mp.weixin.qq.com/s/FQEsm2AoJR5w6eA2n-5B7A)
 - [ES8对象方法扩展](https://mp.weixin.qq.com/s/wiz2yAu1E9rufdBZlTjZ0A)
 - [ES8字符串方法扩展](https://mp.weixin.qq.com/s/QQ6QfgZ1uXjgEnRgW8VpoQ)
