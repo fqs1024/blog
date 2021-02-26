@@ -3,6 +3,12 @@
 
 # 目录
 ### 2021-2
+- [gulp快速上手](https://mp.weixin.qq.com/s/1oq9Lkh2IpyLeZ7uuUSyPg)
+- [ES2020新的原始数据类型 BigInt](https://mp.weixin.qq.com/s/64Xe1LAZKo2qvI557dGUsQ)
+- [异步编程解决方案是如何一步步优化的](https://mp.weixin.qq.com/s/afHbrxkpQZjFGNq-pVYpMA)
+- [响应式布局和自适应布局](https://mp.weixin.qq.com/s/MoeZeBlHN3vfeZ3dMNLtwg)
+- [JS中获取时间和日期的几种方式](https://mp.weixin.qq.com/s/pPhl3aoFQI0YC6OqtnkNuQ)
+- [前端切图之图片格式选择问题](https://mp.weixin.qq.com/s/naTlSDw6dX6ETuS6Z7wJHw)
 - [扩展运算符在对象和数组上的运用](https://mp.weixin.qq.com/s/yXcjM4yEYVNSxNexWWJOVA)
 - [常用的前端开发在线工具](https://mp.weixin.qq.com/s/gt-MJmZJXzqyslUOHQLHMA)
 ### 2021-1
