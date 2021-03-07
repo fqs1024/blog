@@ -20,7 +20,7 @@
 
 
 
-#### 运算符
+#### JS-运算符
 
 - [谈谈JS中的运算符：void的四大用法](https://mp.weixin.qq.com/s/Bv74rIbG2dxkDa5EDDX9ag)
 - [扩展运算符在对象和数组上的运用](https://mp.weixin.qq.com/s/yXcjM4yEYVNSxNexWWJOVA)
@@ -28,12 +28,12 @@
 - [谈谈JS中的运算符：自增++ 自减--](https://mp.weixin.qq.com/s/pymerCCsJ6EI1gBXzGoTfQ)
 
 
-#### 对象
+#### JS-对象
 
 - [JavaScript的JSON对象](https://mp.weixin.qq.com/s/vWIRNawgh9JCGGo3Vi_pug)
 - [剩余参数和arguments对象](https://mp.weixin.qq.com/s/yNJN41JWu3mG4i283Hupkw)
 
-#### 类
+#### JS-类
 
 - [JS. 类](https://mp.weixin.qq.com/s/mTd_wNW_GvCnodZkzhDfGQ)
 - [JS中类的继承和构造函数的继承](https://mp.weixin.qq.com/s/okWbCnztn_vk5korH9yRwA)
@@ -41,30 +41,30 @@
 - [高阶函数（Higher-order function）](https://mp.weixin.qq.com/s/p8MIJyKKnxlaLfaMvQxXqg)
 - [闭包（closure）](https://mp.weixin.qq.com/s/dh8fPLpZUgJK03KC0emVzQ)
 
-#### 面向对象
+#### JS-面向对象
 
 - [面向对象](https://mp.weixin.qq.com/s/lQl28Tbfqdb9XUzXgCWxMw)
 - [JS中对象原型 __proto__及原型链](https://mp.weixin.qq.com/s/qpzyYFKf8T5Gi3Pt6xE5XQ)
 - [一道前端面试题：面向对象相关](https://mp.weixin.qq.com/s/1oXsdJ6KxWaMbLctI7tYLg)
 
-#### 构造函数
+#### JS-构造函数
 
 - [JS. 构造函数](https://mp.weixin.qq.com/s/FFQVEb6-uMfdT0HYR2ZL8A)
 - [JS. 构造函数的原型 prototype](https://mp.weixin.qq.com/s/tm0M1Yd8rNbER5AlMcInTA)
 
-#### 递归
+#### JS-递归
 
 - [用递归解决对象的深拷贝问题](https://mp.weixin.qq.com/s/lmHlf3xfM9jQAlwbpU5Kig)
 - [【你一定知道但是不常用的方式】闭包和递归还可以这样写？](https://mp.weixin.qq.com/s/PO9KlB808Y44mmgdy_5UDA)
 
-#### 作用域
+#### JS-作用域
 
 - [详细理解JS的作用域和作用域链](https://mp.weixin.qq.com/s/3bBpLvcn1n-Q6wJC6gTshg)
 - [7种不同函数内的this指向问题](https://mp.weixin.qq.com/s/QxOZyte_gjcwXjv4Hlz-sA)
 - [JS中改变函数内部this的指向问题](https://mp.weixin.qq.com/s/_xxnW_aiuAqDViLDCTkLVg)
 - [一篇理解JS预解析之变量提升](https://mp.weixin.qq.com/s/p6qldHagznfB3to49xMWkw)
 
-#### 同步与异步
+#### JS-同步与异步
 
 - [JS中的同步和异步](https://mp.weixin.qq.com/s/-QLEiwXva_gKdkvrQRaRAA)
 - [异步编程解决方案是如何一步步优化的](https://mp.weixin.qq.com/s/afHbrxkpQZjFGNq-pVYpMA)
