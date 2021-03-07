@@ -2,11 +2,12 @@
 公众号 【前端工作日】
 
 
-# 按文章分类阅读
+# 一、按文章分类阅读
 
-[点击此处跳转](https://github.com/fqs1024/blog/blob/master/readme-class.md)
+[点击此处跳转文章分类目录](https://github.com/fqs1024/blog/blob/master/readme-class.md)
 
-# 按发布日期
+# 二、按发布日期
+
 # 目录
 ### 2021-3
 - [prettierrc文件详解](https://mp.weixin.qq.com/s/-7Na6z77s1qlqHGdWrbUaQ)
