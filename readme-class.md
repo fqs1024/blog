@@ -22,7 +22,12 @@
 - [一篇理解前端模块化：AMD、CMD、CommonJS、ES6](https://mp.weixin.qq.com/s/quoWsIAvLITT6jGWs3higg)
 - [【建议收藏】你一定会用到的数组的31个方法](https://mp.weixin.qq.com/s/x1CQQyG-RORLAmofzl40ZQ)
 
-
+- [JSON语法中三种类型的值](https://mp.weixin.qq.com/s/5gl0g0tPT2_YkAk5iNwszA)
+- [JavaScript中return的点睛用法](https://mp.weixin.qq.com/s/tOPhVc8-SWkcJT2uRI1jWQ)
+- [简介location对象的属性和方法](https://mp.weixin.qq.com/s/Gwr8ATmkg040GtRAVZpz3A)
+- [一定会踩坑的JS中的错误类型](https://mp.weixin.qq.com/s/OSre1ZfV64MKQDKJCtw9Og)
+- [理解null和undefined之间的差异](https://mp.weixin.qq.com/s/e3CzW19DxgDsASGnuB-KlA)
+- [用实例理解事件冒泡、事件捕获和事件委托](https://mp.weixin.qq.com/s/wakGSjEUryCvC6IV2fWiDA)
 
 #### JS-运算符
 
@@ -83,6 +88,10 @@
 - [JS中异步编程解决方案async/await](https://mp.weixin.qq.com/s/RmslOGB6gLUHNFqY5ElQRA)
 - [JS中异步编程解决方案Promise](https://mp.weixin.qq.com/s/3_dpbJm0yboH2y6ghJgVPw)
 
+- [基于Promise的Axios API请求简介](https://mp.weixin.qq.com/s/7tEMiA9rQ5gGJxrspaVJpA)
+- [基于Promise发送Ajax请求](https://mp.weixin.qq.com/s/cOIRVtvTd7T0D-o2P9f8FQ)
+- [fetch API中的HTTP请求](https://mp.weixin.qq.com/s/gc17fIA9Ikt-vwkPat6SBA)
+
 #### 数据结构
 
 - [JS版数据结构-集合](https://mp.weixin.qq.com/s/8CWdL9sRNelo6zll9tBFdw)
@@ -91,26 +100,36 @@
 
 #### 算法
 
-- [带你刷LeetCode中的递归算法](https://mp.weixin.qq.com/s/y4A3tNBU1i_JPby5RMZXZA)
 
+- [简述算法的空间复杂度](https://mp.weixin.qq.com/s/fXV2h7VKu37RgE-MRO1P0w)
+- [带你刷LeetCode中的递归算法](https://mp.weixin.qq.com/s/y4A3tNBU1i_JPby5RMZXZA)
+- [简述算法的时间复杂度](https://mp.weixin.qq.com/s/h7Vuul_JrSw5yPuDaiQgtw)
+- [介绍一个有关算法演示的网站](https://mp.weixin.qq.com/s/i1Cy1VaFMRJFrVDA7ZHJoQ)
 - [JS中的算法.排序](https://mp.weixin.qq.com/s/ROMawqtvf0I61vXwUpFKhQ)
 
 #### 网络编程
 
 - [IP地址简介](https://mp.weixin.qq.com/s/MFv3jlqfJ-9hMGLcueQKBg)
+- [HTTP请求报文简介(POST)](https://mp.weixin.qq.com/s/JT0uRCP7f_HYdcPCuW1Bpg)
+- [HTTP请求报文简介(GET)](https://mp.weixin.qq.com/s/L5RS2Z2Fyt20BAk15sHv3Q)
+- [HTTP协议简介](https://mp.weixin.qq.com/s/dRX_NcHOaxz4PfMccd5SJA)
+- [TCP简介](https://mp.weixin.qq.com/s/U4logMFDmt9xkXuOQ9c71Q)
+- [端口与端口号简述](https://mp.weixin.qq.com/s/DUSQV8ogl_3ZAnbj3qM2Ow)
 
 ## vue
 
 - [vue/cli4.0以上的版本不能集成ElementUI吗](https://mp.weixin.qq.com/s/cPt300356Hm-TgCJ_hDFHQ)
 
-## Express
+## node && Express
 
 - [Express构建路由简述](https://mp.weixin.qq.com/s/S1JWwZl-tKnM7Z1XLGmI2g)
-
+- [快速上手express-art-template模板引擎](https://mp.weixin.qq.com/s/OkQ_EXust7gLmD6fiGajSA)
 - [Express处理请求参数（附完整代码）](https://mp.weixin.qq.com/s/nAo5Awd0Wv9eB3C0ct09Nw)
 - [Express中间件精讲](https://mp.weixin.qq.com/s/MAnzu1vjChkb2vSITAF5cQ)
 - [Express快速上手](https://mp.weixin.qq.com/s/0pDLX4EXDs-wRj4fF-jA-A)
 - [Express托管静态文件](https://mp.weixin.qq.com/s/rp2Dum4lTAnHfpPHlWSJzA)
+- [Express跨域的处理](https://mp.weixin.qq.com/s/ZCVgs0Xco_Yh9M9P_fPDWA)
+- [Node.js快速入门](https://mp.weixin.qq.com/s/TPmv2ocB0RcpWRnNyAqUHA)
 
 ## ES6
 
@@ -140,6 +159,13 @@
 
 - [ES2020 空值合并运算符](https://mp.weixin.qq.com/s/rrSkMkwOnZJW6IKQp7AhcA)
 
+## 数据库
+
+- [快速上手mongodb数据库的环境搭建](https://mp.weixin.qq.com/s/PG49FjCcg7yD3eL6i1eswA)
+
+## 测试
+
+- [简单聊下前端单元测试](https://mp.weixin.qq.com/s/nArgsL5CszYMpWfIh1sqyw)
 
 ## 配置文件及工具
 
@@ -153,7 +179,7 @@
 
 - [一篇秒懂正则表达式](https://mp.weixin.qq.com/s/voNtxibjDRDZIuSAtRHaiQ)
 - [VS Code常用插件与快捷键](https://mp.weixin.qq.com/s/Jt3hIbnueFj-RSNfITJFGw)
-
+- [.gitignore文件详解](https://mp.weixin.qq.com/s/8a0WkCNvYp7aqEBEqn4cZg)
 
 ## 小程序
 
